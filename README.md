@@ -5,10 +5,10 @@
 
 
 ![Environment Animation](figures/taxi.gif)
-*Animation of the Taxi-v3 environment.*
+
 
 ![Methods Comparison](figures/sample_based.JPG)
-*Comparison of different methods implemented.*
+
 This project implements and trains sample-based reinforcement learning (RL) algorithms from scratch in Python, using the Taxi-v3 environment from OpenAI's Gym. The focus is on analyzing the performance of different algorithms, including Monte Carlo methods and Temporal Difference (TD) methods such as Q-learning and SARSA.
 
 ## Methods Implemented
@@ -28,6 +28,6 @@ This project implements and trains sample-based reinforcement learning (RL) algo
 
 ## Results
 ![Training Performance](figures/plot.png)
-*Training performance over episodes.*
+
 The performance metrics and analysis of the implemented methods are documented in the provided report. Please refer to the respective files for comprehensive insights into the training outcomes.
 
